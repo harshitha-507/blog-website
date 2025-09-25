@@ -36,7 +36,7 @@ Make sure you have:
 ### Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/mini-blog.git
+   git clone https://github.com/harshitha-507/blog-website.git
 
 2. Open the project folder
 
